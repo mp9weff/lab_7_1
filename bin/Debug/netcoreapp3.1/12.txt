@@ -1,0 +1,7 @@
+shapes with area in range 10-100:
+Marta, area:28,274333882308138
+shapes with 'a' in its name:
+Valeria
+Maria
+Sasha
+Marta
